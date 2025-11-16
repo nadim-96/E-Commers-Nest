@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/wFFmHKWw/Container-12.png",
+    "badge": "10%",
+    "title": "Seeds of Change Organic Red Rice",
+    "brand": "By NestFood",
+    "price": 28.85,
+    "prevPrice": 32.00
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/TBqF0DVg/Container-10.png",
+    "badge": "NEW",
+    "title": "All Natural Style Chicken Meatballs",
+    "brand": "By NestFood",
+    "price": 22.85,
+    "prevPrice": 24.80
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/S75Q7hWJ/Container-14.png",
+    "badge": "Sale",
+    "title": "Angie’s Sweet & Salty Kettle Corn",
+    "brand": "By Country Crock",
+    "price": 48.85,
+    "prevPrice": 55.80
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/N6vzW97H/Foster-Farms-Takeout-Crispy-Classic.png",
+    "badge": "HOT",
+    "title": "Foster Farms Takeout Crispy Classic",
+    "brand": "By Country Crock",
+    "price": 17.85,
+    "prevPrice": 20.00
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co/B5rByr2b/Container-9.png",
+    "badge": "22%",
+    "title": "Earth Almonds Lightly Salted Vegetables",
+    "brand": "By NestFood",
+    "price": 23.85,
+    "prevPrice": 29.80
+  },
+
+  {
+    "id": 6,
+    "image": "https://i.ibb.co/RkNnsfYF/Container-11.png",
+    "badge": "20%",
+    "title": "Chobani Complete Vanilla Greek Yogurt",
+    "brand": "By Country Crock",
+    "price": 34.85,
+    "prevPrice": 39.80
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co/7tz7QTSP/Container-7.png",
+    "badge": "18%",
+    "title": "Haagen Caramel Cone Ice Cream Bar",
+    "brand": "By NestFood",
+    "price": 22.85,
+    "prevPrice": 26.80
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co/pvfbPxyd/Container-11.png",
+    "badge": "15%",
+    "title": "Gorton’s Beer Battered Fish Fillets",
+    "brand": "By NestFood",
+    "price": 23.15,
+    "prevPrice": 28.00
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co/JRx7MKrL/Container-13.png",
+    "badge": "New",
+    "title": "Encore Seafood Stuffed Alaska",
+    "brand": "By NestFood",
+    "price": 35.85,
+    "prevPrice": 40.00
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co/3b8pDZJ/328.png",
+    "badge": "25%",
+    "title": "Canada Dry Ginger Ale – Diet",
+    "brand": "By USA Noodle Soup",
+    "price": 18.85,
+    "prevPrice": 25.00
+  },
+
+  {
+    "id": 11,
+    "image": "https://i.ibb.co/B5ZRJ1jX/117.png",
+    "badge": "5%",
+    "title": "Extra virgin olive oil, pomace oil, and more",
+    "brand": "By Tabitha’s Pizza",
+    "price": 58.00,
+    "prevPrice": 62.00
+  },
+  {
+    "id": 12,
+    "image": "https://i.ibb.co/Vc8q6bhf/Container-16.png",
+    "badge": "12%",
+    "title": "Frozen vegetables broccoli & spinach",
+    "brand": "By Tabitha’s Pizza",
+    "price": 71.00,
+    "prevPrice": 82.00
+  },
+  {
+    "id": 13,
+    "image": "https://i.ibb.co/bgkSQQ2G/125.png",
+    "badge": "30%",
+    "title": "Fresh fruit strawberry, mango & more",
+    "brand": "By Marshan Banana",
+    "price": 78.00,
+    "prevPrice": 100.00
+  },
+  {
+    "id": 14,
+    "image": "https://i.ibb.co/Kc2DPWbF/Container-18.png",
+    "badge": "15%",
+    "title": "International low fat vegan cream yogurt",
+    "brand": "By NestFood",
+    "price": 70.00,
+    "prevPrice": 82.00
+  },
+  {
+    "id": 15,
+    "image": "https://i.ibb.co/WpB9yhWx/Container-19.png",
+    "badge": "7%",
+    "title": "Dried fruits apricots, prunes & more",
+    "brand": "By USA Noodle Soup",
+    "price": 56.00,
+    "prevPrice": 60.00
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "discount": "10%",
+    "category": "Baking material",
+    "title": "Foster Farms Takeout Crispy Classic",
+    "rating": 0,
+    "brand": "Country Crock",
+    "price": 17.85,
+    "old_price": 19.80,
+    "picture": "https://i.ibb.co/N6vzW97H/Foster-Farms-Takeout-Crispy-Classic.png"
+  },
+  {
+    "discount": "13%",
+    "category": "Baking material",
+    "title": "Organic Cage Grade A Large Eggs",
+    "rating": 0,
+    "brand": "Hambger Hel",
+    "price": 21.00,
+    "old_price": 24.00,
+    "picture": "https://i.ibb.co/8gz6Gqqv/Container-6.png"
+  },
+  {
+    "discount": "8%",
+    "category": "Baking material",
+    "title": "Haagen Caramel Cone Ice Cream Boxed",
+    "rating": 1,
+    "brand": "Hambger Hel",
+    "price": 22.85,
+    "old_price": 24.80,
+    "picture":"https://i.ibb.co/7tz7QTSP/Container-7.png"
+  },
+  {
+    "discount": "66%",
+    "category": "Fresh Seafood",
+    "title": "All Natural Style Chicken Meatballs",
+    "rating": 0,
+    "brand": "Wonderful",
+    "price": 23.85,
+    "old_price": 70.80,
+    "picture": "https://i.ibb.co/TBqF0DVg/Container-10.png"
+  },
+  {
+    "discount": "8%",
+    "category": "Fresh Fruit",
+    "title": "Blue Almonds Lightly Salted Vegetables",
+    "rating": 0,
+    "brand": "Country Crock",
+    "price": 23.85,
+    "old_price": 25.80,
+    "picture": "https://i.ibb.co/B5rByr2b/Container-9.png"
+  },
+  {
+    "discount": "8%",
+    "category": "Fresh Seafood",
+    "title": "Gorton's Beer Battered Fish Fillets",
+    "rating": 0,
+    "brand": "Hambger Hel",
+    "price": 23.85,
+    "old_price": 25.80,
+    "picture": "https://i.ibb.co/pvfbPxyd/Container-11.png"
+  },
+  {
+    "discount": "13%",
+    "category": "Fresh Fruit",
+    "title": "Seeds of Change Organic Red Rice",
+    "rating": 2,
+    "brand": "NestFood",
+    "price": 28.85,
+    "old_price": 32.80,
+    "picture": "https://i.ibb.co/wFFmHKWw/Container-12.png"
+  },
+  {
+    "discount": "3%",
+    "category": "Baking material",
+    "title": "Canada Dry Ginger Ale - 2 L Bottle",
+    "rating": 0,
+    "brand": "Hambger Hel",
+    "price": 32.85,
+    "old_price": 33.80,
+    "picture": "https://i.ibb.co/3b8pDZJ/328.png"
+  },
+  {
+    "discount": "6%",
+    "category": "Clothing & beauty",
+    "title": "Encore Seafoods Stuffed Alaskan",
+    "rating": 0,
+    "brand": "Hambger Hel",
+    "price": 35.85,
+    "old_price": 37.80,
+    "picture": "https://i.ibb.co/JRx7MKrL/Container-13.png"
+  },
+  {
+    "discount": "8%",
+    "category": "Baking material",
+    "title": "Angie’s Sweet & Salty Kettle Corn",
+    "rating": 1,
+    "brand": "Country Crock",
+    "price": 48.85,
+    "old_price": 52.80,
+    "picture": "https://i.ibb.co/S75Q7hWJ/Container-14.png"
+  }
+]
